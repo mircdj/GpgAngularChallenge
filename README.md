@@ -10,10 +10,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 Run `ng run api` for a api server
 
 Resources
-  http://localhost:3000/albums
-  http://localhost:3000/photos
-  http://localhost:3000/comments
-  http://localhost:3000/users
+- http://localhost:3000/albums
+- http://localhost:3000/photos
+- http://localhost:3000/comments
+- http://localhost:3000/users
 
 ## Code scaffolding
 
